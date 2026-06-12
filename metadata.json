@@ -1,0 +1,6 @@
+{
+  "name": "Humara Pandit",
+  "description": "Align your internal energies and discover sacred Hindu gemstones matching your deep karmic intention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
